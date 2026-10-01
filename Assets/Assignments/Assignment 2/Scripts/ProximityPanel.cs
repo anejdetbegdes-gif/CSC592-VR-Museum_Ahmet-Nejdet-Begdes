@@ -11,11 +11,13 @@ public class ProximityPanel : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        infoPanel.SetActive(true);
+        if (other.CompareTag("Player"))
+            infoPanel.SetActive(true);
     }
 
     void OnTriggerExit(Collider other)
     {
-        infoPanel.SetActive(false);
+        if (other.CompareTag("Player"))
+            infoPanel.SetActive(false);
     }
 }
