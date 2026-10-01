@@ -4,7 +4,7 @@
 
 Ahmet Nejdet Begdes
 
-Efe kaan Karaormanli
+Efe Kaan Karaormanli
 
 ## History of Cybersecurity VR Museum
 
