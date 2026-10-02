@@ -68,6 +68,9 @@ These animations make the museum environment more interactive and visually dynam
 ### Controller-Based Grab Interaction
 ![Controller Grab](Assets/Assignments/Assignment%202/Screenshots/controller-grab.png)
 
+### Updated Museum View with 3D Exhibit Models
+![Updated Museum View](Assets/Assignments/Assignment%202/Screenshots/Updated%20Museum%20View.png)
+
 ### Bonus Animation – Enigma Machine
 ![Bonus Animation 1](Assets/Assignments/Assignment%202/Screenshots/bonus-animation1.png)
 
